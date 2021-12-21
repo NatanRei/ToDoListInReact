@@ -1,0 +1,11 @@
+.container{
+    max-width: 500px;
+    margin: 30px auto;
+    padding: 2%;
+    
+    min-height: 300px;
+   
+    border: 2px solid chartreuse;
+    border-radius: 15px 7px;
+    color: rgb(255, 253, 243);
+}
