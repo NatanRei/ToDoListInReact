@@ -7,7 +7,7 @@ import { BrowserRouter as Router, Route } from 'react-router-dom';
 import AddTask from './components/addTask';
 import Tasks from './components/tasks'
 import Header from './components/header';
-import TaskDetails from './components/taskDetails';
+import TaskDetails  from './components/taskDetails';
 
 import './App.css';
 
